@@ -1,5 +1,5 @@
 # maze-solver
-Description for the project:
+Description: Just a small project in school about find a path in a graph using depth first seach. 
 
 The project contains only 3 files and in order for the program to execute, 3 files must be put in the same directory.
 The manual for the program is:
